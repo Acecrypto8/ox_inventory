@@ -1,4 +1,9 @@
 # ox_inventory
+# Now with Qb-Core support added by AceCrypto
+# Support discord: acecrypto
+
+# Full credit goes to the overextended team!
+
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
@@ -13,7 +18,9 @@ https://overextended.dev/ox_inventory
 
 ## 💾 Download
 
-https://github.com/overextended/ox_inventory/releases/latest/download/ox_inventory.zip
+Fork: https://github.com/Acecrypto8/ox_inventory
+
+Original: https://github.com/overextended/ox_inventory/releases/latest/download/ox_inventory.zip
 
 ## Supported frameworks
 
@@ -21,6 +28,7 @@ We do not guarantee compatibility or support for third-party resources.
 
 - [ox_core](https://github.com/overextended/ox_core)
 - [esx](https://github.com/esx-framework/esx_core)
+- [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qbox](https://github.com/Qbox-project/qbx_core)
 - [nd_core](https://github.com/ND-Framework/ND_Core)
 
