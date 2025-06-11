@@ -4,7 +4,7 @@ lua54 'yes'
 game 'gta5'
 name 'ox_inventory'
 author 'Overextended | AceCrypto'
-version '2.44.1'
+version '2.44.1' -- Current Inventory Version
 repository 'https://github.com/Acecrypto8/ox_inventory'
 description 'Slot-based inventory with item metadata support. Now with QB-Core support'
 
