@@ -7,10 +7,10 @@
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
-![](https://img.shields.io/github/downloads/overextended/ox_inventory/total?logo=github)
-![](https://img.shields.io/github/downloads/overextended/ox_inventory/latest/total?logo=github)
-![](https://img.shields.io/github/contributors/overextended/ox_inventory?logo=github)
-![](https://img.shields.io/github/v/release/overextended/ox_inventory?logo=github)
+![](https://img.shields.io/github/downloads/Acecrypto8/ox_inventory/total?logo=github)
+![](https://img.shields.io/github/downloads/Acecrypto8/ox_inventory/latest/total?logo=github)
+![](https://img.shields.io/github/contributors/Acecrypto8/ox_inventory?logo=github)
+![](https://img.shields.io/github/v/release/Acecrypto8/ox_inventory?logo=github)
 
 ## 📚 Documentation
 
@@ -18,9 +18,7 @@ https://overextended.dev/ox_inventory
 
 ## 💾 Download
 
-Fork: https://github.com/Acecrypto8/ox_inventory
-
-Original: https://github.com/overextended/ox_inventory/releases/latest/download/ox_inventory.zip
+https://github.com/Acecrypto8/ox_inventory/releases/latest/download/ox_inventory.zip
 
 ## Supported frameworks
 
